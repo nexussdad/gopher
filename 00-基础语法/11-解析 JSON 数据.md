@@ -4,15 +4,15 @@
 
 谈需求
 
-![](https://github.com/xinliangnote/Go/blob/master/00-基础语法/images/11_go_1.jpeg)
+![](../00-基础语法/images/11_go_1.jpeg)
 
 估排期
 
-![](https://github.com/xinliangnote/Go/blob/master/00-基础语法/images/11_go_2.jpeg)
+![](../00-基础语法/images/11_go_2.jpeg)
 
 开始干
 
-![](https://github.com/xinliangnote/Go/blob/master/00-基础语法/images/11_go_3.jpeg)
+![](../00-基础语法/images/11_go_3.jpeg)
 
 为啥会这样，我简单总结了下：
 

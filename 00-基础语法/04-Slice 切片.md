@@ -37,7 +37,7 @@ func main() {
 
 运行结果：
 
-![](https://github.com/xinliangnote/Go/blob/master/00-基础语法/images/04-切片/4_go_1.png)
+![](../00-基础语法/images/04-切片/4_go_1.png)
 
 ## 截取切片
 
@@ -68,7 +68,7 @@ func main() {
 
 运行结果：
 
-![](https://github.com/xinliangnote/Go/blob/master/00-基础语法/images/04-切片/4_go_2.png)
+![](../00-基础语法/images/04-切片/4_go_2.png)
 
 ## 追加切片
 
@@ -100,7 +100,7 @@ func main() {
 
 运行结果：
 
-![](https://github.com/xinliangnote/Go/blob/master/00-基础语法/images/04-切片/4_go_3.png)
+![](../00-基础语法/images/04-切片/4_go_3.png)
 
 append 时，容量不够需要扩容时，cap 会翻倍。
 
@@ -132,4 +132,4 @@ func main() {
 
 运行结果：
 
-![](https://github.com/xinliangnote/Go/blob/master/00-基础语法/images/04-切片/4_go_4.png)
+![](../00-基础语法/images/04-切片/4_go_4.png)

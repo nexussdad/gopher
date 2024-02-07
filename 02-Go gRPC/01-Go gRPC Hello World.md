@@ -290,5 +290,5 @@ go run main.go
 
 ## 源码
 
-[查看源码](https://github.com/xinliangnote/Go/blob/master/02-Go%20gRPC/codes/01-gRPC%20Hello%20World)
+[查看源码](../02-Go%20gRPC/codes/01-gRPC%20Hello%20World)
 

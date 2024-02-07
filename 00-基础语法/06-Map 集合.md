@@ -45,7 +45,7 @@ func main() {
 
 运行结果：
 
-![](https://github.com/xinliangnote/Go/blob/master/00-基础语法/images/06-集合/6_go_1.png)
+![](../00-基础语法/images/06-集合/6_go_1.png)
 
 ## 生成 JSON
 
@@ -92,7 +92,7 @@ func main() {
 
 运行结果：
 
-![](https://github.com/xinliangnote/Go/blob/master/00-基础语法/images/06-集合/6_go_2.png)
+![](../00-基础语法/images/06-集合/6_go_2.png)
 
 ## 编辑和删除
 
@@ -122,4 +122,4 @@ func main() {
 ```
 运行结果：
 
-![](https://github.com/xinliangnote/Go/blob/master/00-基础语法/images/06-集合/6_go_3.png)
+![](../00-基础语法/images/06-集合/6_go_3.png)
